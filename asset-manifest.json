@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ranamohid/static/css/main.d9168e33.css",
+    "main.js": "/ranamohid/static/js/main.6c8bc63f.js",
+    "index.html": "/ranamohid/index.html",
+    "main.d9168e33.css.map": "/ranamohid/static/css/main.d9168e33.css.map",
+    "main.6c8bc63f.js.map": "/ranamohid/static/js/main.6c8bc63f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9168e33.css",
+    "static/js/main.6c8bc63f.js"
+  ]
+}
